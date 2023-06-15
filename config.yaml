@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-#      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      Welcome to my personal website where you will have the time of your life
 #     AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Juan Aranguren
   blog: {}
@@ -82,16 +82,16 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: This is my university, where I am studying my MBA
+        title: Welcome to LBS
+        url: blogs/LBS
+      - image: Kitesurf.jpg
+        subtitle: I have started kitesurfing in 2020 and I love it
+        title: My last passion
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: Familia.jpg
+        subtitle: Yes, as you can see we are many
+        title: Meet my HUGE family
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
@@ -116,3 +116,8 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
