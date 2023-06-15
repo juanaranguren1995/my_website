@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: This is my university, where I am studying my MBA
         title: Welcome to LBS
-        url: blogs/LBS
+        url: blogs/risk_return
       - image: Kitesurf.jpg
         subtitle: I have started kitesurfing in 2020 and I love it
         title: My last passion
