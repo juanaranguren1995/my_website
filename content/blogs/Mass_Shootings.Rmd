@@ -5,7 +5,7 @@ categories:
 date: "2023-06-15"
 description: Mass Shootings # the title that will show up once someone gets to this page
 draft: false
-image: Mass Shootings.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: MassShootings.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: Mass_Shootings # slug is the shorthand URL address... no spaces plz
@@ -49,7 +49,6 @@ library(ggrepel)
 We are going to first analyse the data to understand what type of information we can get from the file.
 
 ```{r}
-{r}
 #| echo: false
 #| message: false
 #| warning: false
