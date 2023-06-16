@@ -94,9 +94,9 @@ params:
         title: Meet my HUGE family
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: Let's epxlore the mass shootings
+        title: Let's now get serious and explore my work in Data Analysis in R
+        url: blogs/Mass_Shootings
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
