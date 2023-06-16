@@ -97,7 +97,7 @@ params:
         subtitle: Let's epxlore the mass shootings
         title: Let's now get serious and explore my work in Data Analysis in R
         url: blogs/Mass_Shootings
-      - image: Credit_Fraud.jpg
+      - image: CreditFraud.jpg
         subtitle: Let's explore a credit card fraud analysis
         title: Credit Card Fraud
         url: blogs/Card_Fraud
