@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: This is my university, where I am studying my MBA
         title: Welcome to LBS
-        url: blogs/risk_return
+        url: blogs/LBS2
       - image: Kitesurf.jpg
         subtitle: I have started kitesurfing in 2020 and I love it
         title: My last passion
@@ -101,10 +101,10 @@ params:
         subtitle: Let's explore a credit card fraud analysis
         title: Credit Card Fraud
         url: blogs/Card_Fraud
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: Stock.jpg
+        subtitle: Let's explore a risk return analysis and its code
+        title: Risk Return of DJIA Stocks
+        url: blogs/risk_return
   two:
     buttonText: Get Started
     enable: yes
