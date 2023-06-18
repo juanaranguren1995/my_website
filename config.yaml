@@ -1,4 +1,4 @@
-baseURL: http://juan-aranguren.netlify.app/
+baseURL: https://juan-aranguren.netlify.app/
 languageCode: en-us
 title: Portfolio website for Juan Aranguren
 theme: forty
@@ -96,11 +96,11 @@ params:
       - image: Mass Shootings.jpg
         subtitle: Let's epxlore the mass shootings
         title: Let's now get serious and explore my work in Data Analysis in R
-        url: blogs/Mass_Shootings
+        url: blogs/risk_return_3
       - image: CreditFraud.jpg
         subtitle: Let's explore a credit card fraud analysis
         title: Credit Card Fraud
-        url: blogs/Card_Fraud
+        url: blogs/risk_return_2
       - image: Stock.jpg
         subtitle: Let's explore a risk return analysis and its code
         title: Risk Return of DJIA Stocks
